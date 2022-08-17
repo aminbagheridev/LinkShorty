@@ -10,7 +10,7 @@ A simple link shortening app to allow users to enter their long links, and get r
 ## Technologies Used
 
 **Tech Stack:** 
-UIKit, Realm, REST API
+UIKit, Realm, REST API, Cocoapods
 
 **Architecture:**
 MVVM
